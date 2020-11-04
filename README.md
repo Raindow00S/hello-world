@@ -1,3 +1,4 @@
 # hello-world
-My first(fake) repository on Github
-I love :potato:, :tea: and :artist:.
+My first(really?) repository on Github
+I love :potato: and :tea:.
+I study :computer:.
